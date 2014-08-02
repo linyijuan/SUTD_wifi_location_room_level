@@ -1,0 +1,18 @@
+FutureLivingLab  93.00
+ai-hub  92.00
+ai-ap1  86.00
+  84.00
+SUTD_GLAB  77.00
+SUTD_BOT  75.00
+SUTD_Staff  75.00
+SUTD_Student  75.00
+SUTD_ILP2  74.00
+SUTD_Guest  74.00
+HPCP1525-7dcf88  66.00
+PD193298CC004Name93290C00017A  0
+DENSO WIFI  0
+SUTD LT5 Crestron AV  0
+Wireless@KFMO  0
+KV2-119-20-14  0
+RMIL_Bridge  0
+linksys_SES_32488  0
